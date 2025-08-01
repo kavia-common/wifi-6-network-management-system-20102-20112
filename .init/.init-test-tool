@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/wifi-6-network-management-system-20102-20112/wifi6_backend_api"
+}
